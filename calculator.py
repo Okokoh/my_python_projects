@@ -7,6 +7,6 @@ z = x/y
 
 t = (x + y)
 
-#print(x + y)
-
+print(t)
+and 
 print(z)
