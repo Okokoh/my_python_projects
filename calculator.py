@@ -5,8 +5,6 @@ y = get_int("y; ")
 
 z = x/y
 
-t = (x + y)
+#t = (x + y)
 
-print(t)
-and 
 print(z)
