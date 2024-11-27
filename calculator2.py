@@ -5,4 +5,4 @@
 x = int(input("what is x?: "))
 y = int(input("what is y?: "))
 
-print("sum of x and y is", x + y)
+print(" The sum of x and y is", x + y)
